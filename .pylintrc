@@ -1,0 +1,12 @@
+[MASTER]
+disable = C0114, # missing-module-docstring
+          W0719, # Raising too general exception
+          C0116, # Missing function or method docstring
+          W1309, # Using an f-string that does not have any interpolated variables
+          C0301, # Line too long
+          E0401, # Unable to import
+          C0115, # Missing class docstring
+          R0903, # Too few public methods
+          R0801, # Similar lines in 2 files
+          C0103, # Argument name "rzId" doesn't conform to snake_case naming style (invalid-name)
+          W1203, # Use lazy % formatting in logging functions (logging-fstring-interpolation)
