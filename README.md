@@ -23,7 +23,10 @@ docker run --name bookstack-exporter --rm -v "/$(pwd)/export":/export -e BOOKSTA
 ```
 
 The `EXPORT_FORMAT` is optional, default is `pdf`. Valid format are `html`, `pdf` and `markdown`.
+
 Mount a local directory to save the exported files outside the container.
+
+The target directory must exist and be writable by the container. Existing files will be overwritten.
 
 ### Example output
 
