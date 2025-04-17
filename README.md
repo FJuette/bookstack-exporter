@@ -61,7 +61,7 @@ Give a ⭐️ if this project helped you!
 
 ## License
 
-bookstack-explorter is distributed under the MIT license. See the included [LICENSE.txt] file for details.
+bookstack-explorter is distributed under the MIT license. See the included [LICENSE.txt](https://github.com/FJuette/bookstack-exporter/blob/main/LICENSE.txt) file for details.
 
 ***
 _The initial README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
